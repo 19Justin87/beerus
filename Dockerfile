@@ -1,3 +1,4 @@
+Begin
 #######################################
 # Builder
 #######################################
@@ -22,3 +23,4 @@ LABEL authors="Beerus Team"
 LABEL source="https://github.com/keep-starknet-strange/beerus"
 
 ENTRYPOINT ["/usr/local/bin/beerus"]
+End
